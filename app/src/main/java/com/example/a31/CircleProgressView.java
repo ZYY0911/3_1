@@ -70,7 +70,7 @@ public class CircleProgressView extends View {
         }
         mCircleXY = length/2;
         mRadius = (float) (length * 0.5/2);
-
+        
 
 
     }
